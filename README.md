@@ -3,6 +3,11 @@ Netflix Eureka is a service registry. It provides a REST API for service instanc
 
 ## Running instructions
 
+Make sure that services are running:
+
+ - my-company-configuration-backingservice 
+
+
 ```bash
 $ cd my-company-registry-backingservice
 $ ./mvnw spring-boot:run
