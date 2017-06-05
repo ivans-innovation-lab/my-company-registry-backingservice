@@ -6,11 +6,12 @@
 	<artifactId>my-company-registry-backingservice</artifactId>
 	<name>my company registry backingservice</name>
 	<description>My Company Service Registry</description>
+	<version>1.0.0-SNAPSHOT</version>
 
 	<parent>
 		<groupId>com.idugalic</groupId>
 		<artifactId>my-company-parent</artifactId>
-		<version>1.0.0-SNAPSHOT</version>
+		<version>1.0.0</version>
 	</parent>
 
 	<dependencies>
