@@ -5,8 +5,7 @@ Netflix Eureka is a service registry. It provides a REST API for service instanc
 
 Make sure that services are running:
 
- - my-company-configuration-backingservice 
-
+ - [my-company-configuration-backingservice](https://github.com/ivans-innovation-lab/my-company-configuration-backingservice)
 
 ```bash
 $ cd my-company-registry-backingservice
